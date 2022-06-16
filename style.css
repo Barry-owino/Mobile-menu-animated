@@ -54,3 +54,13 @@
   color:#5349b1;
   width:140px;
 }
+
+.nav-bar .link.active p{
+  display:block;
+}
+.active svg{
+  fill:#5349b1;
+}
+.active svg path{
+  stroke:#5349b1;
+}
