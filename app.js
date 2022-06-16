@@ -1,4 +1,4 @@
-let links = document.getElementsByClassName("link");
+const links = document.getElementsByClassName("link");
 
 function removeActive(){
   for (link of links){
